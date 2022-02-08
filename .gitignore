@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+docs/database_research/Archives/
+
+docs/database_research/PGSQL Habits Tracker.ipynb
